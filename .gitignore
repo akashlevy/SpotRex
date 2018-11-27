@@ -1,3 +1,7 @@
+# Keys
+spotify_token
+rootkey.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
